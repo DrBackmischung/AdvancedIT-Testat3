@@ -35,13 +35,13 @@ public class ServerWorker extends Thread {
             } catch (IOException e) {
             	e.printStackTrace();
             }
-            System.out.println(id + "ist müde");
+            System.out.println(id + " ist müde");
             try {
 				Thread.sleep(4000);
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}
-            System.out.println(id + "ist fertig");
+            System.out.println(id + " ist fertig");
         }
     }
     
