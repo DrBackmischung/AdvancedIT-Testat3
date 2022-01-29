@@ -30,7 +30,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -38,7 +46,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -46,7 +62,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -54,7 +78,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -62,7 +94,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -70,7 +110,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -78,7 +126,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -86,7 +142,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -94,7 +158,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -102,7 +174,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -110,7 +190,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -118,7 +206,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -126,7 +222,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -134,7 +238,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -142,7 +254,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -150,7 +270,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -158,7 +286,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -166,7 +302,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -174,7 +318,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -182,7 +334,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -190,7 +350,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -198,7 +366,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -206,7 +382,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -214,7 +398,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -222,7 +414,15 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
 
@@ -230,6 +430,14 @@ Ein paar der folgenden Testfälle sind nicht zwingend erfolderlich, da verschied
 
 ### Ausgabe Client
 
+``` java
+Ausgabe
+```
+
 ### Ausgabe Server
+
+``` java
+Ausgabe
+```
 
 ### Auswertung
