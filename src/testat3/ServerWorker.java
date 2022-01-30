@@ -28,20 +28,20 @@ public class ServerWorker extends Thread {
     public void run() {
         while(true) {
             DatagramPacket request = queue.remove();
-            System.out.println(id + " startet");
+            System.out.println("["+id+"] Worker startet mit der Bearbeitung einer Request");
             DatagramPacket response = createResponse(request);
             try {
                 s.send(response);
             } catch (IOException e) {
             	e.printStackTrace();
             }
-            System.out.println(id + " ist müde");
+            System.out.println("["+id+"] Worker hat die Bearbeitung abgeschlossen");
             try {
-				Thread.sleep(4000);
+				Thread.sleep(10000);
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}
-            System.out.println(id + " ist fertig");
+            System.out.println("["+id+"] Worker ist bereit für neuen Auftrag");
         }
     }
     
@@ -55,7 +55,6 @@ public class ServerWorker extends Thread {
     	String answer = "Status 500: Internal Server Error";
     	
     	String[] args = cmd.split(" ", 2);
-    	System.out.println(args[0]);
     	if(args.length != 2) {
     		
     		answer = "Status 406: Not Acceptable (Wrong Syntax, use 'READ <fileName>,<lineNumber>' or 'WRITE <fileName>,<lineNumber>,<text>')";
@@ -78,7 +77,8 @@ public class ServerWorker extends Thread {
         				if(line < 1) {
         					answer = "Status 406: Not acceptable (LineNumber has to be a positive number >= 1)";
         				} else {
-        					
+
+        		            System.out.println("["+id+"] Worker bearbeitet: "+cmd);
         					answer = f.read(id, params[0], line, monitor);
         					
         				}
@@ -105,7 +105,8 @@ public class ServerWorker extends Thread {
         				if(line < 1) {
         					answer = "Status 406: Not acceptable (LineNumber has to be a positive number >= 1)";
         				} else {
-        					
+
+        		            System.out.println("["+id+"] Worker bearbeitet: "+cmd);
         					answer = f.write(id, params[0], line, params[2], monitor);
         					
         				}

@@ -30,13 +30,12 @@ public class ServerDispatcher {
     		for(int i = 0; i<workers.length; i++) {
     			workers[i] = new ServerWorker(i, s, queue, f, monitor);
     			workers[i].start();
-    			System.out.println("Worker "+i+" gestartet!");
+                System.out.println("["+i+"] Worker gestartet");
     		}
     		
     		while(true) {
     			DatagramPacket p = new DatagramPacket(new byte[65535], 65535);
     			s.receive(p);
-    			System.out.println(p.getLength());
     			queue.add(p);
     		}
     		

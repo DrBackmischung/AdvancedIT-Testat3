@@ -72,13 +72,10 @@ public class FileHandler {
 				
 				if(i == line) {
 					pw.println(data);
-					System.out.println("nice, was zu tun "+data);
 				}else {
 					if(s == null) {
-						System.out.println("upsi, null");
 						pw.println("");
 					}else {
-						System.out.println("yay "+s);
 						pw.println(s);
 					}
 				}
