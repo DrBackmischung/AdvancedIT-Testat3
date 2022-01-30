@@ -1,6 +1,6 @@
 # Testat
 bearbeitet von 	
-Mathis Neunzig (Matrikelnummer 2240587)
+Mathis Neunzig (Matrikelnummer 2240587) | Nathalie Möck (Matrikelnummer 7163124)
 
 ## Aufgabe
 
